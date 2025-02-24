@@ -4,7 +4,7 @@ An intuitive, modular CLI tool for tuning Deepseek R1 hyperparameters. Think of 
 
 ## ✨ Features
 
-- 🎨 Beautiful, colored interface with interactive menus
+- 🎨 Colored interface with interactive menus
 - ✅ Real-time parameter validation
 - 💾 Automatic configuration saving and loading
 - 📊 Visual parameter organization
@@ -13,7 +13,7 @@ An intuitive, modular CLI tool for tuning Deepseek R1 hyperparameters. Think of 
 - 🔧 Easy reset to default settings
 - 📦 Modular, maintainable codebase
 
-## 🏗️ Project Structure
+# 🏗️ Project Structure
 
 ```
 deepseek_tuner/
@@ -36,7 +36,7 @@ deepseek_tuner/
     └── backups/       # Configuration backups
 ```
 
-## 🚀 Quick Start
+## Quick Start
 
 1. Clone this repository:
    ```bash
