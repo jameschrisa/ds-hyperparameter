@@ -28,3 +28,9 @@ def setup_logger():
     logger.info("Logger initialized - starting new session")
     
     return logger
+
+def get_logger():
+    """
+    Returns an instance of the logger
+    """
+    return logging.getLogger("deepseek_tuner")
